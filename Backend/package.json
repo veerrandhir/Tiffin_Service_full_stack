@@ -1,0 +1,23 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "This is Tiffin backend server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "node.js",
+    "bcrypt",
+    "npm",
+    "epxress.js",
+    "mongooes",
+    "mongoDB",
+    "javascript"
+  ],
+  "author": "Randhir kumar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
